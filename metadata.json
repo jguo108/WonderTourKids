@@ -1,0 +1,7 @@
+{
+  "name": "WonderTour Kids",
+  "description": "A fun and interactive tour guide for kids! Snap a photo of a landmark to learn cool facts, history, and more.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
